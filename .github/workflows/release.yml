@@ -2,7 +2,8 @@ name: "🚀 release"
 
 on:
   push:
-    - master
+    branches:
+      - master
 
 jobs:
   release:
