@@ -1,9 +1,8 @@
 name: "🚀 release"
 
 on:
-  release:
-    push:
-      - master
+  push:
+    - master
 
 jobs:
   release:
