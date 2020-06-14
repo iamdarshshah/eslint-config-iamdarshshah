@@ -32,13 +32,17 @@ Tip: You can alternatively put this object in your `package.json` under the prop
 
 > You can add more ESLint configuration options in this file if you want.
 
-## Questions ❔
+## Contributing :pushpin:
 
-If you have any trouble, definitely [open an issue][5] and I'll take a look.
+Please read [CONTRIBUTING.md](https://github.com/iamdarshshah/eslint-config-iamdarshshah/blob/master/CONTRIBUTING.md) for details on our code of conduct, and the process for submitting pull requests to us.
 
 Or you can consult the [ESLint Shareable Configs documentation][6].
 
 And if all else fails, you can ask me directly on [Twitter][7].
+
+## License :stop_sign:
+
+This project is licensed under the MIT License - see the [LICENSE](https://github.com/iamdarshshah/eslint-config-iamdarshshah/blob/master/license) file for details.
 
 ## Inspired By :rocket: 
 
