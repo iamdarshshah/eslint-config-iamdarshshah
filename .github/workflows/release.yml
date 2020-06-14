@@ -2,7 +2,8 @@ name: "🚀 release"
 
 on:
   release:
-    types: [published]
+    push:
+      - master
 
 jobs:
   release:
